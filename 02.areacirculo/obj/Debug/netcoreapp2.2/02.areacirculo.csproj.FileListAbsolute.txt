@@ -1,0 +1,11 @@
+C:\SistInfoGeo\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.deps.json
+C:\SistInfoGeo\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.runtimeconfig.json
+C:\SistInfoGeo\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.runtimeconfig.dev.json
+C:\SistInfoGeo\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.dll
+C:\SistInfoGeo\02.areacirculo\bin\Debug\netcoreapp2.2\02.areacirculo.pdb
+C:\SistInfoGeo\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.csprojAssemblyReference.cache
+C:\SistInfoGeo\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.AssemblyInfoInputs.cache
+C:\SistInfoGeo\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.AssemblyInfo.cs
+C:\SistInfoGeo\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.dll
+C:\SistInfoGeo\02.areacirculo\obj\Debug\netcoreapp2.2\02.areacirculo.pdb
