@@ -6,7 +6,9 @@ namespace _01.holamundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Clear();
+            Console.WriteLine("Hello World!/n/n");
+            Console.WriteLine("Irvin Medina");
         }
     }
 }
