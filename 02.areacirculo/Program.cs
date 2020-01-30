@@ -6,7 +6,7 @@ namespace _02.AreaCirculo
     {
         static void Main(string[] args)
         {
-	    float radio,area;
+	    double radio,area;
             Console.WriteLine("Programa que calcula el area de un circulo");
 
             Console.WriteLine("Dame el radio");
