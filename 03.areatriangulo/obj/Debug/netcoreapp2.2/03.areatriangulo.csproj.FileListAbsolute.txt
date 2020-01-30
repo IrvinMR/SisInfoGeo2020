@@ -1,0 +1,11 @@
+C:\SistInfoGeo\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.csprojAssemblyReference.cache
+C:\SistInfoGeo\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.AssemblyInfoInputs.cache
+C:\SistInfoGeo\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.AssemblyInfo.cs
+C:\SistInfoGeo\03.areatriangulo\bin\Debug\netcoreapp2.2\03.areatriangulo.deps.json
+C:\SistInfoGeo\03.areatriangulo\bin\Debug\netcoreapp2.2\03.areatriangulo.runtimeconfig.json
+C:\SistInfoGeo\03.areatriangulo\bin\Debug\netcoreapp2.2\03.areatriangulo.runtimeconfig.dev.json
+C:\SistInfoGeo\03.areatriangulo\bin\Debug\netcoreapp2.2\03.areatriangulo.dll
+C:\SistInfoGeo\03.areatriangulo\bin\Debug\netcoreapp2.2\03.areatriangulo.pdb
+C:\SistInfoGeo\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.dll
+C:\SistInfoGeo\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.pdb
