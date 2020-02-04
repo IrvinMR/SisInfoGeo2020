@@ -1,0 +1,11 @@
+C:\SistInfoGeo\04.ciclos\bin\Debug\netcoreapp2.2\04.ciclos.deps.json
+C:\SistInfoGeo\04.ciclos\bin\Debug\netcoreapp2.2\04.ciclos.runtimeconfig.json
+C:\SistInfoGeo\04.ciclos\bin\Debug\netcoreapp2.2\04.ciclos.runtimeconfig.dev.json
+C:\SistInfoGeo\04.ciclos\bin\Debug\netcoreapp2.2\04.ciclos.dll
+C:\SistInfoGeo\04.ciclos\bin\Debug\netcoreapp2.2\04.ciclos.pdb
+C:\SistInfoGeo\04.ciclos\obj\Debug\netcoreapp2.2\04.ciclos.csprojAssemblyReference.cache
+C:\SistInfoGeo\04.ciclos\obj\Debug\netcoreapp2.2\04.ciclos.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\04.ciclos\obj\Debug\netcoreapp2.2\04.ciclos.AssemblyInfoInputs.cache
+C:\SistInfoGeo\04.ciclos\obj\Debug\netcoreapp2.2\04.ciclos.AssemblyInfo.cs
+C:\SistInfoGeo\04.ciclos\obj\Debug\netcoreapp2.2\04.ciclos.dll
+C:\SistInfoGeo\04.ciclos\obj\Debug\netcoreapp2.2\04.ciclos.pdb

@@ -1,0 +1,11 @@
+C:\SistInfoGeo\05.pizzas\bin\Debug\netcoreapp2.2\05.pizzas.deps.json
+C:\SistInfoGeo\05.pizzas\bin\Debug\netcoreapp2.2\05.pizzas.runtimeconfig.json
+C:\SistInfoGeo\05.pizzas\bin\Debug\netcoreapp2.2\05.pizzas.runtimeconfig.dev.json
+C:\SistInfoGeo\05.pizzas\bin\Debug\netcoreapp2.2\05.pizzas.dll
+C:\SistInfoGeo\05.pizzas\bin\Debug\netcoreapp2.2\05.pizzas.pdb
+C:\SistInfoGeo\05.pizzas\obj\Debug\netcoreapp2.2\05.pizzas.csprojAssemblyReference.cache
+C:\SistInfoGeo\05.pizzas\obj\Debug\netcoreapp2.2\05.pizzas.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\05.pizzas\obj\Debug\netcoreapp2.2\05.pizzas.AssemblyInfoInputs.cache
+C:\SistInfoGeo\05.pizzas\obj\Debug\netcoreapp2.2\05.pizzas.AssemblyInfo.cs
+C:\SistInfoGeo\05.pizzas\obj\Debug\netcoreapp2.2\05.pizzas.dll
+C:\SistInfoGeo\05.pizzas\obj\Debug\netcoreapp2.2\05.pizzas.pdb
