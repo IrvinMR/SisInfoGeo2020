@@ -1,0 +1,11 @@
+C:\SistInfoGeo\10.vectorsumas\bin\Debug\netcoreapp2.2\10.vectorsumas.deps.json
+C:\SistInfoGeo\10.vectorsumas\bin\Debug\netcoreapp2.2\10.vectorsumas.runtimeconfig.json
+C:\SistInfoGeo\10.vectorsumas\bin\Debug\netcoreapp2.2\10.vectorsumas.runtimeconfig.dev.json
+C:\SistInfoGeo\10.vectorsumas\bin\Debug\netcoreapp2.2\10.vectorsumas.dll
+C:\SistInfoGeo\10.vectorsumas\bin\Debug\netcoreapp2.2\10.vectorsumas.pdb
+C:\SistInfoGeo\10.vectorsumas\obj\Debug\netcoreapp2.2\10.vectorsumas.csprojAssemblyReference.cache
+C:\SistInfoGeo\10.vectorsumas\obj\Debug\netcoreapp2.2\10.vectorsumas.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\10.vectorsumas\obj\Debug\netcoreapp2.2\10.vectorsumas.AssemblyInfoInputs.cache
+C:\SistInfoGeo\10.vectorsumas\obj\Debug\netcoreapp2.2\10.vectorsumas.AssemblyInfo.cs
+C:\SistInfoGeo\10.vectorsumas\obj\Debug\netcoreapp2.2\10.vectorsumas.dll
+C:\SistInfoGeo\10.vectorsumas\obj\Debug\netcoreapp2.2\10.vectorsumas.pdb

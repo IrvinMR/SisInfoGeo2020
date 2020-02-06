@@ -1,0 +1,11 @@
+C:\SistInfoGeo\09.vectorcubo\bin\Debug\netcoreapp2.2\09.vectorcubo.deps.json
+C:\SistInfoGeo\09.vectorcubo\bin\Debug\netcoreapp2.2\09.vectorcubo.runtimeconfig.json
+C:\SistInfoGeo\09.vectorcubo\bin\Debug\netcoreapp2.2\09.vectorcubo.runtimeconfig.dev.json
+C:\SistInfoGeo\09.vectorcubo\bin\Debug\netcoreapp2.2\09.vectorcubo.dll
+C:\SistInfoGeo\09.vectorcubo\bin\Debug\netcoreapp2.2\09.vectorcubo.pdb
+C:\SistInfoGeo\09.vectorcubo\obj\Debug\netcoreapp2.2\09.vectorcubo.csprojAssemblyReference.cache
+C:\SistInfoGeo\09.vectorcubo\obj\Debug\netcoreapp2.2\09.vectorcubo.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\09.vectorcubo\obj\Debug\netcoreapp2.2\09.vectorcubo.AssemblyInfoInputs.cache
+C:\SistInfoGeo\09.vectorcubo\obj\Debug\netcoreapp2.2\09.vectorcubo.AssemblyInfo.cs
+C:\SistInfoGeo\09.vectorcubo\obj\Debug\netcoreapp2.2\09.vectorcubo.dll
+C:\SistInfoGeo\09.vectorcubo\obj\Debug\netcoreapp2.2\09.vectorcubo.pdb

@@ -1,0 +1,11 @@
+C:\SistInfoGeo\08.vectoraleatorio\bin\Debug\netcoreapp2.2\08.vectoraleatorio.deps.json
+C:\SistInfoGeo\08.vectoraleatorio\bin\Debug\netcoreapp2.2\08.vectoraleatorio.runtimeconfig.json
+C:\SistInfoGeo\08.vectoraleatorio\bin\Debug\netcoreapp2.2\08.vectoraleatorio.runtimeconfig.dev.json
+C:\SistInfoGeo\08.vectoraleatorio\bin\Debug\netcoreapp2.2\08.vectoraleatorio.dll
+C:\SistInfoGeo\08.vectoraleatorio\bin\Debug\netcoreapp2.2\08.vectoraleatorio.pdb
+C:\SistInfoGeo\08.vectoraleatorio\obj\Debug\netcoreapp2.2\08.vectoraleatorio.csprojAssemblyReference.cache
+C:\SistInfoGeo\08.vectoraleatorio\obj\Debug\netcoreapp2.2\08.vectoraleatorio.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\08.vectoraleatorio\obj\Debug\netcoreapp2.2\08.vectoraleatorio.AssemblyInfoInputs.cache
+C:\SistInfoGeo\08.vectoraleatorio\obj\Debug\netcoreapp2.2\08.vectoraleatorio.AssemblyInfo.cs
+C:\SistInfoGeo\08.vectoraleatorio\obj\Debug\netcoreapp2.2\08.vectoraleatorio.dll
+C:\SistInfoGeo\08.vectoraleatorio\obj\Debug\netcoreapp2.2\08.vectoraleatorio.pdb

@@ -1,0 +1,11 @@
+C:\SistInfoGeo\07.valorpromedio\obj\Debug\netcoreapp2.2\07.valorpromedio.csprojAssemblyReference.cache
+C:\SistInfoGeo\07.valorpromedio\obj\Debug\netcoreapp2.2\07.valorpromedio.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\07.valorpromedio\obj\Debug\netcoreapp2.2\07.valorpromedio.AssemblyInfoInputs.cache
+C:\SistInfoGeo\07.valorpromedio\obj\Debug\netcoreapp2.2\07.valorpromedio.AssemblyInfo.cs
+C:\SistInfoGeo\07.valorpromedio\bin\Debug\netcoreapp2.2\07.valorpromedio.deps.json
+C:\SistInfoGeo\07.valorpromedio\bin\Debug\netcoreapp2.2\07.valorpromedio.runtimeconfig.json
+C:\SistInfoGeo\07.valorpromedio\bin\Debug\netcoreapp2.2\07.valorpromedio.runtimeconfig.dev.json
+C:\SistInfoGeo\07.valorpromedio\bin\Debug\netcoreapp2.2\07.valorpromedio.dll
+C:\SistInfoGeo\07.valorpromedio\bin\Debug\netcoreapp2.2\07.valorpromedio.pdb
+C:\SistInfoGeo\07.valorpromedio\obj\Debug\netcoreapp2.2\07.valorpromedio.dll
+C:\SistInfoGeo\07.valorpromedio\obj\Debug\netcoreapp2.2\07.valorpromedio.pdb
