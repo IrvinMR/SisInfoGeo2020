@@ -1,0 +1,11 @@
+C:\SistInfoGeo\ej1\obj\Debug\netcoreapp2.2\ej1.csprojAssemblyReference.cache
+C:\SistInfoGeo\ej1\obj\Debug\netcoreapp2.2\ej1.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\ej1\obj\Debug\netcoreapp2.2\ej1.AssemblyInfoInputs.cache
+C:\SistInfoGeo\ej1\obj\Debug\netcoreapp2.2\ej1.AssemblyInfo.cs
+C:\SistInfoGeo\ej1\bin\Debug\netcoreapp2.2\ej1.deps.json
+C:\SistInfoGeo\ej1\bin\Debug\netcoreapp2.2\ej1.runtimeconfig.json
+C:\SistInfoGeo\ej1\bin\Debug\netcoreapp2.2\ej1.runtimeconfig.dev.json
+C:\SistInfoGeo\ej1\bin\Debug\netcoreapp2.2\ej1.dll
+C:\SistInfoGeo\ej1\bin\Debug\netcoreapp2.2\ej1.pdb
+C:\SistInfoGeo\ej1\obj\Debug\netcoreapp2.2\ej1.dll
+C:\SistInfoGeo\ej1\obj\Debug\netcoreapp2.2\ej1.pdb
