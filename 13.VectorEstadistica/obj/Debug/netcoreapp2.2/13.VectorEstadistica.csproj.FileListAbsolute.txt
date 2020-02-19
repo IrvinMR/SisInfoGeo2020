@@ -1,0 +1,11 @@
+C:\SistInfoGeo\13.VectorEstadistica\bin\Debug\netcoreapp2.2\13.VectorEstadistica.deps.json
+C:\SistInfoGeo\13.VectorEstadistica\bin\Debug\netcoreapp2.2\13.VectorEstadistica.runtimeconfig.json
+C:\SistInfoGeo\13.VectorEstadistica\bin\Debug\netcoreapp2.2\13.VectorEstadistica.runtimeconfig.dev.json
+C:\SistInfoGeo\13.VectorEstadistica\bin\Debug\netcoreapp2.2\13.VectorEstadistica.dll
+C:\SistInfoGeo\13.VectorEstadistica\bin\Debug\netcoreapp2.2\13.VectorEstadistica.pdb
+C:\SistInfoGeo\13.VectorEstadistica\obj\Debug\netcoreapp2.2\13.VectorEstadistica.csprojAssemblyReference.cache
+C:\SistInfoGeo\13.VectorEstadistica\obj\Debug\netcoreapp2.2\13.VectorEstadistica.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\13.VectorEstadistica\obj\Debug\netcoreapp2.2\13.VectorEstadistica.AssemblyInfoInputs.cache
+C:\SistInfoGeo\13.VectorEstadistica\obj\Debug\netcoreapp2.2\13.VectorEstadistica.AssemblyInfo.cs
+C:\SistInfoGeo\13.VectorEstadistica\obj\Debug\netcoreapp2.2\13.VectorEstadistica.dll
+C:\SistInfoGeo\13.VectorEstadistica\obj\Debug\netcoreapp2.2\13.VectorEstadistica.pdb
