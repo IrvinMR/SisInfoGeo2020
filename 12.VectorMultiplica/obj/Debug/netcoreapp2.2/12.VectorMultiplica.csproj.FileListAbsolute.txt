@@ -1,0 +1,11 @@
+C:\SistInfoGeo\12.VectorMultiplica\bin\Debug\netcoreapp2.2\12.VectorMultiplica.deps.json
+C:\SistInfoGeo\12.VectorMultiplica\bin\Debug\netcoreapp2.2\12.VectorMultiplica.runtimeconfig.json
+C:\SistInfoGeo\12.VectorMultiplica\bin\Debug\netcoreapp2.2\12.VectorMultiplica.runtimeconfig.dev.json
+C:\SistInfoGeo\12.VectorMultiplica\bin\Debug\netcoreapp2.2\12.VectorMultiplica.dll
+C:\SistInfoGeo\12.VectorMultiplica\bin\Debug\netcoreapp2.2\12.VectorMultiplica.pdb
+C:\SistInfoGeo\12.VectorMultiplica\obj\Debug\netcoreapp2.2\12.VectorMultiplica.csprojAssemblyReference.cache
+C:\SistInfoGeo\12.VectorMultiplica\obj\Debug\netcoreapp2.2\12.VectorMultiplica.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\12.VectorMultiplica\obj\Debug\netcoreapp2.2\12.VectorMultiplica.AssemblyInfoInputs.cache
+C:\SistInfoGeo\12.VectorMultiplica\obj\Debug\netcoreapp2.2\12.VectorMultiplica.AssemblyInfo.cs
+C:\SistInfoGeo\12.VectorMultiplica\obj\Debug\netcoreapp2.2\12.VectorMultiplica.dll
+C:\SistInfoGeo\12.VectorMultiplica\obj\Debug\netcoreapp2.2\12.VectorMultiplica.pdb
