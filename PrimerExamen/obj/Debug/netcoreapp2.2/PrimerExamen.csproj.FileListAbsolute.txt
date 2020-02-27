@@ -1,0 +1,11 @@
+C:\SistInfoGeo\PrimerExamen\bin\Debug\netcoreapp2.2\PrimerExamen.deps.json
+C:\SistInfoGeo\PrimerExamen\bin\Debug\netcoreapp2.2\PrimerExamen.runtimeconfig.json
+C:\SistInfoGeo\PrimerExamen\bin\Debug\netcoreapp2.2\PrimerExamen.runtimeconfig.dev.json
+C:\SistInfoGeo\PrimerExamen\bin\Debug\netcoreapp2.2\PrimerExamen.dll
+C:\SistInfoGeo\PrimerExamen\bin\Debug\netcoreapp2.2\PrimerExamen.pdb
+C:\SistInfoGeo\PrimerExamen\obj\Debug\netcoreapp2.2\PrimerExamen.csprojAssemblyReference.cache
+C:\SistInfoGeo\PrimerExamen\obj\Debug\netcoreapp2.2\PrimerExamen.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\PrimerExamen\obj\Debug\netcoreapp2.2\PrimerExamen.AssemblyInfoInputs.cache
+C:\SistInfoGeo\PrimerExamen\obj\Debug\netcoreapp2.2\PrimerExamen.AssemblyInfo.cs
+C:\SistInfoGeo\PrimerExamen\obj\Debug\netcoreapp2.2\PrimerExamen.dll
+C:\SistInfoGeo\PrimerExamen\obj\Debug\netcoreapp2.2\PrimerExamen.pdb
