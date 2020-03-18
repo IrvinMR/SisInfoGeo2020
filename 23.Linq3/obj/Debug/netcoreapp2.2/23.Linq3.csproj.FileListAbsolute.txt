@@ -1,0 +1,11 @@
+C:\SistInfoGeo\23.Linq3\bin\Debug\netcoreapp2.2\23.Linq3.deps.json
+C:\SistInfoGeo\23.Linq3\bin\Debug\netcoreapp2.2\23.Linq3.runtimeconfig.json
+C:\SistInfoGeo\23.Linq3\bin\Debug\netcoreapp2.2\23.Linq3.runtimeconfig.dev.json
+C:\SistInfoGeo\23.Linq3\bin\Debug\netcoreapp2.2\23.Linq3.dll
+C:\SistInfoGeo\23.Linq3\bin\Debug\netcoreapp2.2\23.Linq3.pdb
+C:\SistInfoGeo\23.Linq3\obj\Debug\netcoreapp2.2\23.Linq3.csprojAssemblyReference.cache
+C:\SistInfoGeo\23.Linq3\obj\Debug\netcoreapp2.2\23.Linq3.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\23.Linq3\obj\Debug\netcoreapp2.2\23.Linq3.AssemblyInfoInputs.cache
+C:\SistInfoGeo\23.Linq3\obj\Debug\netcoreapp2.2\23.Linq3.AssemblyInfo.cs
+C:\SistInfoGeo\23.Linq3\obj\Debug\netcoreapp2.2\23.Linq3.dll
+C:\SistInfoGeo\23.Linq3\obj\Debug\netcoreapp2.2\23.Linq3.pdb

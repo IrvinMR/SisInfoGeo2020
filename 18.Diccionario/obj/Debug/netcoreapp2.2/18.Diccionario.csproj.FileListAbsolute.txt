@@ -1,0 +1,11 @@
+C:\SistInfoGeo\18.Diccionario\obj\Debug\netcoreapp2.2\18.Diccionario.csprojAssemblyReference.cache
+C:\SistInfoGeo\18.Diccionario\obj\Debug\netcoreapp2.2\18.Diccionario.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\18.Diccionario\obj\Debug\netcoreapp2.2\18.Diccionario.AssemblyInfoInputs.cache
+C:\SistInfoGeo\18.Diccionario\obj\Debug\netcoreapp2.2\18.Diccionario.AssemblyInfo.cs
+C:\SistInfoGeo\18.Diccionario\bin\Debug\netcoreapp2.2\18.Diccionario.deps.json
+C:\SistInfoGeo\18.Diccionario\bin\Debug\netcoreapp2.2\18.Diccionario.runtimeconfig.json
+C:\SistInfoGeo\18.Diccionario\bin\Debug\netcoreapp2.2\18.Diccionario.runtimeconfig.dev.json
+C:\SistInfoGeo\18.Diccionario\bin\Debug\netcoreapp2.2\18.Diccionario.dll
+C:\SistInfoGeo\18.Diccionario\bin\Debug\netcoreapp2.2\18.Diccionario.pdb
+C:\SistInfoGeo\18.Diccionario\obj\Debug\netcoreapp2.2\18.Diccionario.dll
+C:\SistInfoGeo\18.Diccionario\obj\Debug\netcoreapp2.2\18.Diccionario.pdb
