@@ -1,0 +1,11 @@
+C:\SistInfoGeo\19.ListasV1\bin\Debug\netcoreapp2.2\19.ListasV1.deps.json
+C:\SistInfoGeo\19.ListasV1\bin\Debug\netcoreapp2.2\19.ListasV1.runtimeconfig.json
+C:\SistInfoGeo\19.ListasV1\bin\Debug\netcoreapp2.2\19.ListasV1.runtimeconfig.dev.json
+C:\SistInfoGeo\19.ListasV1\bin\Debug\netcoreapp2.2\19.ListasV1.dll
+C:\SistInfoGeo\19.ListasV1\bin\Debug\netcoreapp2.2\19.ListasV1.pdb
+C:\SistInfoGeo\19.ListasV1\obj\Debug\netcoreapp2.2\19.ListasV1.csprojAssemblyReference.cache
+C:\SistInfoGeo\19.ListasV1\obj\Debug\netcoreapp2.2\19.ListasV1.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\19.ListasV1\obj\Debug\netcoreapp2.2\19.ListasV1.AssemblyInfoInputs.cache
+C:\SistInfoGeo\19.ListasV1\obj\Debug\netcoreapp2.2\19.ListasV1.AssemblyInfo.cs
+C:\SistInfoGeo\19.ListasV1\obj\Debug\netcoreapp2.2\19.ListasV1.dll
+C:\SistInfoGeo\19.ListasV1\obj\Debug\netcoreapp2.2\19.ListasV1.pdb
