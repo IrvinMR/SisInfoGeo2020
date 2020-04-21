@@ -1,0 +1,11 @@
+C:\SistInfoGeo\24.ImportarCVS\bin\Debug\netcoreapp2.2\24.ImportarCVS.deps.json
+C:\SistInfoGeo\24.ImportarCVS\bin\Debug\netcoreapp2.2\24.ImportarCVS.runtimeconfig.json
+C:\SistInfoGeo\24.ImportarCVS\bin\Debug\netcoreapp2.2\24.ImportarCVS.runtimeconfig.dev.json
+C:\SistInfoGeo\24.ImportarCVS\bin\Debug\netcoreapp2.2\24.ImportarCVS.dll
+C:\SistInfoGeo\24.ImportarCVS\bin\Debug\netcoreapp2.2\24.ImportarCVS.pdb
+C:\SistInfoGeo\24.ImportarCVS\obj\Debug\netcoreapp2.2\24.ImportarCVS.csprojAssemblyReference.cache
+C:\SistInfoGeo\24.ImportarCVS\obj\Debug\netcoreapp2.2\24.ImportarCVS.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\24.ImportarCVS\obj\Debug\netcoreapp2.2\24.ImportarCVS.AssemblyInfoInputs.cache
+C:\SistInfoGeo\24.ImportarCVS\obj\Debug\netcoreapp2.2\24.ImportarCVS.AssemblyInfo.cs
+C:\SistInfoGeo\24.ImportarCVS\obj\Debug\netcoreapp2.2\24.ImportarCVS.dll
+C:\SistInfoGeo\24.ImportarCVS\obj\Debug\netcoreapp2.2\24.ImportarCVS.pdb
