@@ -1,0 +1,11 @@
+C:\SistInfoGeo\35.Delegados5\bin\Debug\netcoreapp2.2\35.Delegados5.deps.json
+C:\SistInfoGeo\35.Delegados5\bin\Debug\netcoreapp2.2\35.Delegados5.runtimeconfig.json
+C:\SistInfoGeo\35.Delegados5\bin\Debug\netcoreapp2.2\35.Delegados5.runtimeconfig.dev.json
+C:\SistInfoGeo\35.Delegados5\bin\Debug\netcoreapp2.2\35.Delegados5.dll
+C:\SistInfoGeo\35.Delegados5\bin\Debug\netcoreapp2.2\35.Delegados5.pdb
+C:\SistInfoGeo\35.Delegados5\obj\Debug\netcoreapp2.2\35.Delegados5.csprojAssemblyReference.cache
+C:\SistInfoGeo\35.Delegados5\obj\Debug\netcoreapp2.2\35.Delegados5.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\35.Delegados5\obj\Debug\netcoreapp2.2\35.Delegados5.AssemblyInfoInputs.cache
+C:\SistInfoGeo\35.Delegados5\obj\Debug\netcoreapp2.2\35.Delegados5.AssemblyInfo.cs
+C:\SistInfoGeo\35.Delegados5\obj\Debug\netcoreapp2.2\35.Delegados5.dll
+C:\SistInfoGeo\35.Delegados5\obj\Debug\netcoreapp2.2\35.Delegados5.pdb

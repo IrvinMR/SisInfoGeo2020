@@ -1,0 +1,11 @@
+C:\SistInfoGeo\25.Interfaz1\bin\Debug\netcoreapp2.2\25.Interfaz1.deps.json
+C:\SistInfoGeo\25.Interfaz1\bin\Debug\netcoreapp2.2\25.Interfaz1.runtimeconfig.json
+C:\SistInfoGeo\25.Interfaz1\bin\Debug\netcoreapp2.2\25.Interfaz1.runtimeconfig.dev.json
+C:\SistInfoGeo\25.Interfaz1\bin\Debug\netcoreapp2.2\25.Interfaz1.dll
+C:\SistInfoGeo\25.Interfaz1\bin\Debug\netcoreapp2.2\25.Interfaz1.pdb
+C:\SistInfoGeo\25.Interfaz1\obj\Debug\netcoreapp2.2\25.Interfaz1.csprojAssemblyReference.cache
+C:\SistInfoGeo\25.Interfaz1\obj\Debug\netcoreapp2.2\25.Interfaz1.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\25.Interfaz1\obj\Debug\netcoreapp2.2\25.Interfaz1.AssemblyInfoInputs.cache
+C:\SistInfoGeo\25.Interfaz1\obj\Debug\netcoreapp2.2\25.Interfaz1.AssemblyInfo.cs
+C:\SistInfoGeo\25.Interfaz1\obj\Debug\netcoreapp2.2\25.Interfaz1.dll
+C:\SistInfoGeo\25.Interfaz1\obj\Debug\netcoreapp2.2\25.Interfaz1.pdb

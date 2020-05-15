@@ -1,0 +1,11 @@
+C:\SistInfoGeo\27.Threading1\obj\Debug\netcoreapp2.2\27.Threading1.csprojAssemblyReference.cache
+C:\SistInfoGeo\27.Threading1\obj\Debug\netcoreapp2.2\27.Threading1.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\27.Threading1\obj\Debug\netcoreapp2.2\27.Threading1.AssemblyInfoInputs.cache
+C:\SistInfoGeo\27.Threading1\obj\Debug\netcoreapp2.2\27.Threading1.AssemblyInfo.cs
+C:\SistInfoGeo\27.Threading1\bin\Debug\netcoreapp2.2\27.Threading1.deps.json
+C:\SistInfoGeo\27.Threading1\bin\Debug\netcoreapp2.2\27.Threading1.runtimeconfig.json
+C:\SistInfoGeo\27.Threading1\bin\Debug\netcoreapp2.2\27.Threading1.runtimeconfig.dev.json
+C:\SistInfoGeo\27.Threading1\bin\Debug\netcoreapp2.2\27.Threading1.dll
+C:\SistInfoGeo\27.Threading1\bin\Debug\netcoreapp2.2\27.Threading1.pdb
+C:\SistInfoGeo\27.Threading1\obj\Debug\netcoreapp2.2\27.Threading1.dll
+C:\SistInfoGeo\27.Threading1\obj\Debug\netcoreapp2.2\27.Threading1.pdb
