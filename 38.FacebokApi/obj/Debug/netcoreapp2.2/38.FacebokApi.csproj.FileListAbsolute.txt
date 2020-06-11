@@ -1,0 +1,11 @@
+C:\SistInfoGeo\38.FacebokApi\obj\Debug\netcoreapp2.2\38.FacebokApi.csprojAssemblyReference.cache
+C:\SistInfoGeo\38.FacebokApi\obj\Debug\netcoreapp2.2\38.FacebokApi.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\38.FacebokApi\obj\Debug\netcoreapp2.2\38.FacebokApi.AssemblyInfoInputs.cache
+C:\SistInfoGeo\38.FacebokApi\obj\Debug\netcoreapp2.2\38.FacebokApi.AssemblyInfo.cs
+C:\SistInfoGeo\38.FacebokApi\bin\Debug\netcoreapp2.2\38.FacebokApi.deps.json
+C:\SistInfoGeo\38.FacebokApi\bin\Debug\netcoreapp2.2\38.FacebokApi.runtimeconfig.json
+C:\SistInfoGeo\38.FacebokApi\bin\Debug\netcoreapp2.2\38.FacebokApi.runtimeconfig.dev.json
+C:\SistInfoGeo\38.FacebokApi\bin\Debug\netcoreapp2.2\38.FacebokApi.dll
+C:\SistInfoGeo\38.FacebokApi\bin\Debug\netcoreapp2.2\38.FacebokApi.pdb
+C:\SistInfoGeo\38.FacebokApi\obj\Debug\netcoreapp2.2\38.FacebokApi.dll
+C:\SistInfoGeo\38.FacebokApi\obj\Debug\netcoreapp2.2\38.FacebokApi.pdb
