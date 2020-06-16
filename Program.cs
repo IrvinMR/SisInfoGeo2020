@@ -1,6 +1,6 @@
 ﻿using System;
-//using System.Range;
-//using RGBColor;
+using System.Range;
+using RGBColor;
 
 namespace TercerExamenParcial
 {
@@ -19,7 +19,7 @@ namespace TercerExamenParcial
                     case 5: PatPosi(); break;
                     case 6: DecUsing(); break;
                     case 7: FunLocEst(); break;
-                    case 8: IndicesRangos(); break;
+                    case 8: IndicRang(); break;
                     default: Console.WriteLine("Opcion invalida..."); break;
                 }
                 Console.ForegroundColor = ConsoleColor.Black;
@@ -51,7 +51,7 @@ namespace TercerExamenParcial
             }
 
         static void ExpSwitch(){
-           /* public enum Rainbow{
+            public enum Rainbow{
                 Red,
                 Orange,
                 Yellow,
@@ -71,7 +71,7 @@ namespace TercerExamenParcial
                 Rainbow.Indigo => new RGBColor(0x4B, 0x00, 0x82),
                 Rainbow.Violet => new RGBColor(0x94, 0x00, 0xD3),
                 _              => throw new ArgumentException(message: "invalid enum value", paramName: nameof(colorBand)),
-    };*/
+    };
                 Console.WriteLine("Vacio");
         }
 
@@ -177,7 +177,7 @@ namespace TercerExamenParcial
                         
         }
 
-        static void IndicesRangos(){
+        static void IndicRang(){
 
             var words = new string[]
 {

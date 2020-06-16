@@ -1,0 +1,13 @@
+C:\SistInfoGeo\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.csprojAssemblyReference.cache
+C:\SistInfoGeo\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.AssemblyInfoInputs.cache
+C:\SistInfoGeo\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.AssemblyInfo.cs
+C:\SistInfoGeo\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.csproj.CoreCompileInputs.cache
+C:\SistInfoGeo\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.exe
+C:\SistInfoGeo\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.deps.json
+C:\SistInfoGeo\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.runtimeconfig.json
+C:\SistInfoGeo\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.runtimeconfig.dev.json
+C:\SistInfoGeo\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.dll
+C:\SistInfoGeo\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.pdb
+C:\SistInfoGeo\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.dll
+C:\SistInfoGeo\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.pdb
+C:\SistInfoGeo\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.genruntimeconfig.cache
